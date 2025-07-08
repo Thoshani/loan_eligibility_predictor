@@ -89,6 +89,10 @@ df = pd.read_csv("loan_data.csv")  # or replace with your uploaded filename
 # Step 5: Evaluate Model (ROC Curve + Confusion Matrix)
 # (Paste the ROC + Confusion Matrix code block here)
 
+output
+![Screenshot 2025-06-20 170146](https://github.com/user-attachments/assets/37a6072b-3a8a-4e9e-ae82-fa71d0f7cf7b)
+
+
 # Optional Step: Run a Gradio app inside Colab (if UI is needed)
 import gradio as gr
 # (Paste the Gradio UI code here from loan_app.py)
